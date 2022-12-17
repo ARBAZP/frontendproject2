@@ -1,0 +1,187 @@
+nav{
+    position:sticky;
+     flex-wrap: wrap;
+    width: 1728px;
+    height: 87px;
+    left: 0px;
+    top: 0px;
+    background: #000000;
+display:flex;
+
+}
+a{
+    text-decoration: none;
+}
+
+.a{
+    position: absolute;
+    width: 111px;
+    height: 29px;
+    left: 1267px;
+    top: 29px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;    
+}
+.m{
+    position: absolute;
+    width: 127px;
+    height: 29px;
+    left: 1407px;
+    top: 29px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.c{
+
+    position: absolute;
+    width: 127px;
+    height: 29px;
+    left: 1563px;
+    top: 29px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.flex1{
+    display:flex;
+}
+
+.item1{
+    position: absolute;
+width: 180px;
+height: 29px;
+left: 38px;
+top: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: white;
+}
+.h{
+   position: absolute;
+width: 67px;
+height: 29px;
+left: 1121px;
+top: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+h1{
+  
+width: 600px;
+height: 144px;
+left: 38px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+}
+
+
+.peragraph{
+    
+
+width: 791px;
+height: 546px;
+left: 38px;
+top: 245px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000
+}
+.image{
+   
+width: 729px;
+height: 911px;
+left: 922px;
+top: 140px;
+}
+.buton{
+   
+width: 226px;
+height: 58px;
+left: 38px;
+top: 662px;
+background: #000000;
+position: absolute;
+width: 129px;
+height: 33px;
+left: 87px;
+top: 674px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+h2{
+    
+    width: 600px;
+    height: 94px;
+    left: 50px;
+    top: 1154px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #000000; 
+}
+
+.flex2{
+   display:flex;
+   flex-wrap: wrap;
+}
+
+.flex2 .item{
+    width: 498.42px;
+}
+
